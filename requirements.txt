@@ -1,0 +1,31 @@
+# Core ML and Data Processing
+transformers
+torch
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress and Utilities
+tqdm
+python-dotenv
+
+# Web Interface
+gradio
+
+# Text Processing
+sentencepiece
+arabic-reshaper
+python-bidi
+
+# Development Tools
+jupyter
+
+# Optional - for better performance
+sacremoses
+protobuf 
