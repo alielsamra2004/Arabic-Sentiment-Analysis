@@ -21,7 +21,7 @@ arabic-sentiment-analysis/
 ├── app/
 │   └── interface.py      # Gradio web interface implementation
 │
-├── data/					# Processed and raw data
+├── data/					# Processed and raw data which was significantly reduced jsut fror the upload on my repo on github but was fully used for modeling on visual studio and jupyter
 │   ├── processed/  
 │   └── raw/
 │
