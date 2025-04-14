@@ -1,0 +1,17 @@
+timestamp,input_text,predicted_sentiment,probabilities,translation
+2025-04-14T17:51:46.491000,هذا المنتج رائع جداً وأنا سعيد بشرائه,positive,mixed: 0.0354; negative: 0.0173; positive: 0.9473,"This product is so great, and I'm happy to buy it."
+2025-04-14T17:55:20.101320,الخدمة ممتازة والموظفين محترمين جداً,positive,mixed: 0.0536; negative: 0.0146; positive: 0.9318,"The service is excellent, and the staff is very respectable."
+2025-04-14T17:55:23.037448,الخدمة ممتازة والموظفين محترمين جداً,positive,mixed: 0.0536; negative: 0.0146; positive: 0.9318,"The service is excellent, and the staff is very respectable."
+2025-04-14T17:56:39.001562,تجربة سيئة جداً، لن أعود مرة أخرى,negative,mixed: 0.0274; negative: 0.9481; positive: 0.0245,Pretty bad experience. I'm not coming back.
+2025-04-14T17:57:54.949931,الطعام كان جيد جدا ,positive,mixed: 0.1293; negative: 0.0376; positive: 0.8331,The food was very good.
+2025-04-14T17:58:23.318218,الطعام كان سيء جدا ,negative,mixed: 0.0541; negative: 0.9286; positive: 0.0173,The food was so bad.
+2025-04-14T17:58:30.254213,المكان كان نظيف ,positive,mixed: 0.1361; negative: 0.0473; positive: 0.8167,The place was clean.
+2025-04-14T18:29:18.221125,هذا المنتج رائع جداً وأنا سعيد بشرائه,positive,mixed: 0.0354; negative: 0.0173; positive: 0.9473,"This product is so great, and I'm happy to buy it."
+2025-04-14T21:03:30.965459,هذا المنتج رائع جداً وأنا سعيد بشرائه,positive,mixed: 0.0354; negative: 0.0173; positive: 0.9473,"This product is so great, and I'm happy to buy it."
+2025-04-14T21:03:45.798538,للأسف المنتج سيء ولا أنصح به,negative,mixed: 0.0356; negative: 0.9424; positive: 0.0219,"Unfortunately, the product is bad, and I don't recommend it."
+2025-04-15T00:17:51.314381,المنتج جيد ولكن السعر مرتفع قليلاً,mixed,mixed: 0.8915; negative: 0.0887; positive: 0.0198,"The product's good, but the price's a little high."
+2025-04-15T00:18:01.925360,للأسف المنتج سيء ولا أنصح به,negative,mixed: 0.0356; negative: 0.9424; positive: 0.0219,"Unfortunately, the product is bad, and I don't recommend it."
+2025-04-15T00:18:10.144770,الخدمة ممتازة والموظفين محترمين جداً,positive,mixed: 0.0536; negative: 0.0146; positive: 0.9318,"The service is excellent, and the staff is very respectable."
+2025-04-15T00:18:58.409028,الخدمة جامد والموظفين محترمين جداً,positive,mixed: 0.3581; negative: 0.0377; positive: 0.6042,"The service is frozen, and the staff is very respectable."
+2025-04-15T00:19:09.855036,الخدمة جامدة والموظفين محترمين جداً,mixed,mixed: 0.6338; negative: 0.0649; positive: 0.3013,The service is frozen and the staff is very respectable.
+2025-04-15T00:30:26.208329,للأسف المنتج سيء ولا أنصح به,negative,mixed: 0.0356; negative: 0.9424; positive: 0.0219,"Unfortunately, the product is bad, and I don't recommend it."

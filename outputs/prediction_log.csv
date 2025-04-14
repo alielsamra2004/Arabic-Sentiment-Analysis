@@ -1,0 +1,5 @@
+timestamp,english_text,arabic_translation,predicted_sentiment,probabilities
+2025-04-14T18:48:17.293436,The service was terrible and the room was dirty.,الخدمة كانت رهيبة والغرفة كانت قذرة,negative,mixed: 0.1994; negative: 0.7775; positive: 0.0231
+2025-04-14T19:03:17.331931,The food was delicious and the staff was very friendly.,الطعام كان لذيذاً والطاقم كان ودوداً جداً,positive,mixed: 0.3127; negative: 0.0648; positive: 0.6225
+2025-04-14T19:05:23.148951,The food was delicious and the staff was very friendly.,الطعام كان لذيذاً والطاقم كان ودوداً جداً,positive,mixed: 0.3127; negative: 0.0648; positive: 0.6225
+2025-04-14T19:14:18.805171,The food was delicious and the staff was very friendly.,الطعام كان لذيذاً والطاقم كان ودوداً جداً,positive,mixed: 0.3127; negative: 0.0648; positive: 0.6225
